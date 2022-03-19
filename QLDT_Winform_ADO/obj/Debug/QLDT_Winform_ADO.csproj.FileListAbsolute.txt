@@ -1,0 +1,9 @@
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\bin\Debug\QLDT_Winform_ADO.exe.config
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\bin\Debug\QLDT_Winform_ADO.exe
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\bin\Debug\QLDT_Winform_ADO.pdb
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.Form1.resources
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.Properties.Resources.resources
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.csproj.GenerateResource.Cache
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.exe
+D:\Csharp_Exams\QLDT_Winform_ADO\QLDT_Winform_ADO\obj\Debug\QLDT_Winform_ADO.pdb
